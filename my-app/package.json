@@ -1,0 +1,7 @@
+{
+    "name": "tea-testnet",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {}
+}

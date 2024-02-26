@@ -1,0 +1,32 @@
+{
+    "name": "@ibnufals/tea-testnet",
+    "version": "0.0.3",
+    "description": "tea testnet project",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "files": [
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ibnufals/tea-testnet.git"
+    },
+    "keywords": [
+        "npm",
+        "publish",
+        "package",
+        "registry"
+    ],
+    "author": {
+        "name": "Ibnu Fals",
+        "email": "buatairdrop0@gmail.com",
+        "url": "https://github.com/ibnufals"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ibnufals/tea-testnet/issues"
+    },
+    "homepage": "https://github.com/ibnufals/tea-testnet#readme"
+}
